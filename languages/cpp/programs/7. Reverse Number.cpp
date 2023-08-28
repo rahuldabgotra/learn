@@ -1,0 +1,1 @@
+//Write a c++ program to reverse given number.
