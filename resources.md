@@ -1,4 +1,5 @@
 # Resources
+Compiled a list of resources that have been helpful on my learning journey. 
 
 ## Books
 
@@ -16,9 +17,13 @@ Databases:
 - [SQL Book](https://books.goalkicker.com/SQLBook/)
 - [MySQL](https://books.goalkicker.com/MySQLBook/)
 
-Tools:
+Tools and Technologies:
 - [Git](https://books.goalkicker.com/GitBook/)
 - [Linux](https://books.goalkicker.com/LinuxBook/)
 - [Spring](https://books.goalkicker.com/SpringFrameworkBook/)
 - [NodeJS](https://books.goalkicker.com/NodeJSBook/)
 - [React](https://books.goalkicker.com/ReactJSBook/)
+
+<!-- ## Tutorials, 
+## Documentation
+## Articles  -->
