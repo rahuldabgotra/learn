@@ -7,8 +7,8 @@ Welcome to my Learning Code Repository! This is where I document and showcase my
 - [Introduction](#introduction)
 - [Languages](#languages)
 - [Technologies](#technologies)
-<!-- - [Projects](#projects) -->
-<!-- - [Resources](#resources) -->
+- [Projects](#projects)
+- [Resources](#resources)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,26 +32,37 @@ In this section, I'm diving into various technologies and tools, including:
 
 - Web development (HTML, CSS, React, Node.js)
 - Databases (MySQL, MongoDB)
+- Postman (API's Testing)
 
-<!-- ## Projects
+## Projects
 
-### Project 1: Simple To-Do App (JavaScript)
+### Project 1: Rangmanch (project-rm)
 
-Description: A basic to-do list application built using HTML, CSS, and vanilla JavaScript.
+Description: A basic ecommerce site for art built using Spring Boot and React.
 
-Repository: [Link to Project 1](https://github.com/your-username/project-1)
+Repository: [Link to Project 1](https://github.com/rahuldabgotra/project-rm)
 
-### Project 2: Portfolio Website (React)
+### Project 2: Doctor Appointment Application (project-daa)
 
-Description: My personal portfolio website developed using React.js to showcase my projects and skills.
+Description: A appointment booking application for doctor's built using Spring Boot and React. 
 
-Repository: [Link to Project 2](https://github.com/your-username/project-2)
+Repository: [Link to Project 2](https://github.com/rahuldabgotra/project-daa)
 
-(Add more projects with descriptions and links) -->
+### Project : Coding Space (project-cs)
 
-<!-- ## Resources
+Description: A realtime coding space with inbuilt compiler built using JavaScript. 
 
-I've compiled a list of resources that have been helpful on my learning journey. These include online tutorials, documentation, and articles related to the languages and technologies I'm studying. Check them out in the [Resources](resources.md) file. -->
+Repository: [Link to Project 3](https://github.com/rahuldabgotra/project-cs)
+
+
+<!-- ### Project : Name (repo name)
+Description: details. 
+Repository: [Link to Project 0](https://github.com/rahuldabgotra/project 0) -->
+
+
+## Resources
+
+I've compiled a list of resources that have been helpful on my learning journey. These include online tutorials, documentation, and articles related to the languages and technologies I'm studying. Check them out in the [Resources](resources.md) file.
 
 ## How to Use
 
