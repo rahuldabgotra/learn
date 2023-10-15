@@ -5,7 +5,7 @@ Welcome to my Learn Repository! This is where I document and showcase my journey
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Programming Languages](#ProgrammingLanguages)
+- [Programming Languages](#programming-languages)
 - [Technologies](#technologies)
 - [Projects](#projects)
 - [Resources](#resources)
