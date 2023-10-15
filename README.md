@@ -1,11 +1,11 @@
 # Learn Repository
 
-Welcome to my Learn Repository! This is where I document and showcase my journey of learning various programming languages and technologies. Here, you'll find code snippets, projects, and resources related to the languages and technologies I am currently studying. Feel free to explore, learn, and collaborate!
+Welcome to my Learn Repository! This is where I document and showcase my journey of learning various programming languages and technologies. Here, you'll find code snippets, projects, and resources related to the programming languages and technologies I am currently studying. Feel free to explore, learn, and collaborate!
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Languages](#languages)
+- [Programming Languages](#Programming Languages)
 - [Technologies](#technologies)
 - [Projects](#projects)
 - [Resources](#resources)
@@ -17,7 +17,7 @@ Welcome to my Learn Repository! This is where I document and showcase my journey
 
 In this repository, I am dedicated to expanding my knowledge and skills in the world of technology. I believe that hands-on experience is crucial for learning, so I am actively working on coding exercises, and small projects, and experimenting with new technologies.
 
-## Languages
+## Programming Languages
 
 Here are some of the programming languages I am currently learning and experimenting with:
 
@@ -62,7 +62,7 @@ Repository: [Link to Project 0](https://github.com/rahuldabgotra/project 0) -->
 
 ## Resources
 
-I've compiled a list of resources that have been helpful in my learning journey. These include online tutorials, documentation, and articles about the languages and technologies I'm studying. Check them in the [Resources](resources.md) file.
+I've compiled a list of resources that have been helpful in my learning journey. These include online tutorials, documentation, and articles about the  programming languages and technologies I'm studying. Check them in the [Resources](resources.md) file.
 
 ## How to Use
 
