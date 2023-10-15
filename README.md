@@ -1,6 +1,6 @@
-# Learning Code Repository
+# Learn Repository
 
-Welcome to my Learning Code Repository! This is where I document and showcase my journey of learning various programming languages and technologies. Here, you'll find code snippets, projects, and resources related to the languages and technologies I am currently studying. Feel free to explore, learn, and collaborate!
+Welcome to my Learn Repository! This is where I document and showcase my journey of learning various programming languages and technologies. Here, you'll find code snippets, projects, and resources related to the languages and technologies I am currently studying. Feel free to explore, learn, and collaborate!
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to my Learning Code Repository! This is where I document and showcase my
 
 ## Introduction
 
-In this repository, I am dedicated to expanding my knowledge and skills in the world of programming. I believe that hands-on experience is crucial for learning, so I am actively working on coding exercises, small projects, and experimenting with new technologies.
+In this repository, I am dedicated to expanding my knowledge and skills in the world of technology. I believe that hands-on experience is crucial for learning, so I am actively working on coding exercises, and small projects, and experimenting with new technologies.
 
 ## Languages
 
@@ -38,31 +38,31 @@ In this section, I'm diving into various technologies and tools, including:
 
 ### Project 1: Rangmanch (project-rm)
 
-Description: A basic ecommerce site for art built using Spring Boot and React.
+Description: A basic e-commerce site for art built using Spring Boot and React.
 
 Repository: [Link to Project 1](https://github.com/rahuldabgotra/project-rm)
 
 ### Project 2: Doctor Appointment Application (project-daa)
 
-Description: A appointment booking application for doctor's built using Spring Boot and React. 
+Description: An appointment booking application for doctors built using Spring Boot and React. 
 
 Repository: [Link to Project 2](https://github.com/rahuldabgotra/project-daa)
 
-### Project : Coding Space (project-cs)
+### Project: Coding Space (project-cs)
 
-Description: A realtime coding space with inbuilt compiler built using JavaScript. 
+Description: A real-time coding space with an inbuilt compiler built using JavaScript. 
 
 Repository: [Link to Project 3](https://github.com/rahuldabgotra/project-cs)
 
 
-<!-- ### Project : Name (repo name)
+<!-- ### Project: Name (repo name)
 Description: details. 
 Repository: [Link to Project 0](https://github.com/rahuldabgotra/project 0) -->
 
 
 ## Resources
 
-I've compiled a list of resources that have been helpful on my learning journey. These include online tutorials, documentation, and articles related to the languages and technologies I'm studying. Check them out in the [Resources](resources.md) file.
+I've compiled a list of resources that have been helpful in my learning journey. These include online tutorials, documentation, and articles about the languages and technologies I'm studying. Check them in the [Resources](resources.md) file.
 
 ## How to Use
 
@@ -80,4 +80,4 @@ This repository is licensed under the [MIT License](LICENSE), which means you ar
 
 ---
 
-Thank you for visiting my Learning Code Repository! I hope my journey and code snippets can be of help to you in your own learning endeavors. Happy coding! 🚀
+Thank you for visiting my Learn Repository! I hope my journey and code snippets can be of help to you in your own learning endeavours. Happy coding! 🚀
