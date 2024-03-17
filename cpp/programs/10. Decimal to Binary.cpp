@@ -1,1 +1,0 @@
-//Write a c++ program to convert decimal number to binary.

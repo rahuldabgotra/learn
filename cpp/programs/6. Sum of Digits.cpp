@@ -1,1 +1,0 @@
-//Write a c++ program to print sum of digits.
