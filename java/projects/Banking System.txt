@@ -1,0 +1,5 @@
+Java Banking System:
+	Description:
+	Create a console-based banking system where users can open accounts, deposit money, withdraw money, and view their balance.
+	Utilize classes and inheritance to represent different account types (e.g., savings account, checking account).
+	Implement error handling for insufficient funds and invalid input.
