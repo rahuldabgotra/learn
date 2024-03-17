@@ -1,0 +1,5 @@
+C++ Todo List Manager:
+	Description:
+	Develop a console-based todo list manager where users can add, delete, and view tasks.
+	Utilize data structures like arrays or linked lists to store tasks.
+	Implement functions for adding, deleting, and displaying tasks.
