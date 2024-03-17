@@ -1,0 +1,5 @@
+Python Weather App:
+	Description:
+	Develop a console-based weather application that fetches weather data from an API based on user input (city name or zip code).
+	Use requests library to fetch data from a weather API (e.g., OpenWeatherMap).
+	Parse the JSON response and display relevant weather information (temperature, humidity, etc.).
