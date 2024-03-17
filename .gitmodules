@@ -1,0 +1,3 @@
+[submodule "python/flask"]
+	path = python/flask
+	url = https://github.com/rahuldabgotra/flask-task-manager-app.git
