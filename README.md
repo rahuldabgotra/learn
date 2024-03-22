@@ -18,7 +18,7 @@ Here are some of the programming languages I am currently learning and experimen
 
 ## Projects
 
-###Project: flask-task-manager-app
+### Project: flask-task-manager-app
 Description: Flask Task Manager App having features like CRUD operations, user auth, logging. 
 Repository: [Link to Project](https://github.com/rahuldabgotra/learn/tree/main/python/projects/flask-task-manager-app)
 
