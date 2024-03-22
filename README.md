@@ -20,11 +20,11 @@ Here are some of the programming languages I am currently learning and experimen
 
 Project: flask-task-manager-app
 Description: Flask Task Manager App having features like CRUD operations, user auth, logging
-Repository: [Link to Flask Task Manager App](https://github.com/rahuldabgotra/learn/tree/main/python/projects/)
+Repository: [Link to Project](https://github.com/rahuldabgotra/learn/tree/main/python/projects/flask-task-manager-app)
 
 <!-- ### Project: Name (repo name)
 Description: details. 
-Repository: [Link to Project 0](https://github.com/rahuldabgotra/project 0) -->
+Repository: [Link to Project](https://github.com/rahuldabgotra/project 0) -->
 
 
 ## Resources
