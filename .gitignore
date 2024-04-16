@@ -1,4 +1,6 @@
+# for VS Code files
+.vscode/
+
 # for java builds 
 *.class
-.vscode/
 java/programs/output/
