@@ -1,1 +1,3 @@
+# for java builds 
 *.class
+.vscode/
