@@ -1,3 +1,4 @@
 # for java builds 
 *.class
 .vscode/
+java/programs/output/
