@@ -40,3 +40,19 @@ Below is the list of programs in order with links to their respective files:
 ### Navigating the Files
 
 Each file demonstrates a specific concept and is named descriptively for easy reference. The code adheres to best practices and includes comments for better understanding.
+
+To compile and run these programs:
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing these file. ```.\java\programs```
+3. Compile the programs using the command: 
+
+    ``` bash
+    javac -d output HelloWorld.java 
+    ```
+
+4. Navigate to the **output** folder ```.\java\programs\output``` and run the programs using the command:
+
+    ``` bash
+    java HelloWorld
+    ```
